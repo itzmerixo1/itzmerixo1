@@ -10,7 +10,7 @@ Highly skilled Full stack developer experienced in crafting dynamic front-end in
 
 # My Social Profiles
 <p align="center">
-<a href="https://www.instagram.com/itzmerixo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/itzmerixo1.-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/itzmerixo1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/itzmerixo1.-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
 </p>
 
@@ -78,11 +78,11 @@ Highly skilled Full stack developer experienced in crafting dynamic front-end in
  <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=itzmerixo1&show_icons=true&theme=dark&locale=en" alt="shabin Github Stats" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHABIN-K&theme=dark" alt="Shabin k status" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmerixo1-K&theme=dark" alt="itzmerixo1status" /></td>
   </tr>
 </table>
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHABIN-K&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmerixo1&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
  </div>
  
