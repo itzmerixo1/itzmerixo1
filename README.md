@@ -58,11 +58,10 @@
 ## 🌌 Exploring the Dev Universe
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Yk0WGz8Jrdzuw/giphy.gif" width="500" alt="Cosmic Coding" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="Coding Dev GIF" />
 </p>
 
 > *"In a universe full of stars, I chose to be a developer — creating constellations of code one repo at a time."*
-
 ---
 
 ## 📊 GitHub Stats
@@ -82,5 +81,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Made+with+❤️+from+Planet+Code;By+Rixo+FF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+from+Planet+Code;By+Rixo+FF" alt="Typing SVG" />
 </p>
